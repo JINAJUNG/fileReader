@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foods>
+	<food>
+	<type>중식</type>
+		<name>짜장면</name>
+	</food>
+	
+	<food>
+	<type>한식</type>
+		<name>불고기</name>
+	</food>
+	
+	<food>
+	<type>양식</type>
+		<name>까르보나라 파스타</name>
+	</food>
+</foods>
